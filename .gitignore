@@ -1,0 +1,17 @@
+# Local data folders
+processed_outputs/
+uploads/
+
+# Python environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test files
+test.jpg
